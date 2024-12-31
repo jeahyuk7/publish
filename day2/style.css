@@ -1,0 +1,16 @@
+.kim {
+  color: gray;
+  border: none;
+  border-radius: 4px;
+  font-weight: 700;
+  padding: 3px;
+}
+
+.lee {
+  color: white;
+  background-color: #ff7777;
+  border: none;
+  border-radius: 4px;
+  font-weight: 700;
+  padding: 3px;
+}
