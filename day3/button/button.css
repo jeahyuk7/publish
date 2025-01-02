@@ -1,0 +1,21 @@
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 10px;
+}
+
+.b1 {
+  border: 1px solid blue;
+}
+
+.b2 {
+  border: 1px solid blue;
+  border-radius: 30px;
+}
+
+.c1 {
+  padding: 10px 30px;
+}
+.c2 {
+  padding: 10px 50px;
+}
