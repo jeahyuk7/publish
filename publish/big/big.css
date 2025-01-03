@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.box {
+  width: 100%;
+  height: 100%;
+}
+
+.sky {
+  background-color: aquamarine;
+}
+
+.skyblue {
+  background-color: aqua;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.whet {
+  background-color: aliceblue;
+}

@@ -1,0 +1,17 @@
+.cir {
+  display: inline-block;
+  width: 100px;
+  height: 200px;
+  margin-right: 10px;
+}
+
+img {
+  border-radius: 9999px;
+  width: 100%;
+  height: 50%;
+  object-fit: cover;
+}
+
+.txt {
+  text-align: center;
+}
